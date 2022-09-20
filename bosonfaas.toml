@@ -1,0 +1,3 @@
+language = "javascript"
+project_name = "js-default"
+entry_point = "src/main.js"
